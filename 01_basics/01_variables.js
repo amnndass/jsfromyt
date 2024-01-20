@@ -6,4 +6,5 @@ console.log(accountId);
 
 accountEmail = "this@gmail.com";
 accountPassword = "5394573"
-console.table([accountId, accountEmail, accountPassword])
+let accountName;
+console.table([accountId, accountEmail, accountPassword, accountName])
